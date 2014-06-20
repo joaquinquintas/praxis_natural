@@ -150,6 +150,7 @@ iframe {
 }
 
 #root section.menu {
+	height: 100%;
 	width: 80% !important;
 	margin-left: -80%
 }
@@ -161,6 +162,7 @@ iframe {
 }
 
 #root.GBRootControllerTypeLittleSwipe section.menu {
+	height: 100%;
 	margin-left: -28%;
 	width: 28% !important
 }
