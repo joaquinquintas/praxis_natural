@@ -197,9 +197,9 @@ header.navBar label.button-back,header.navBar label.button-send {
 }
 
 header.navBar .button-back-chevron {
-	width: 14px;
-	height: 20px;
-	padding: 5px 8px
+    height: 34px;
+    padding: 5px 8px;
+    width: 26px;
 }
 
 header.navBar .with_bg.button-back-chevron {
