@@ -62,7 +62,7 @@ header.navBar.withCircleBand>span {
 	left: 0;
 	z-index: 0;
 	background-color: #000000 !important; 
-	 background-image: url("http://praxis.moodsy.me/static/files/effectBackgroundImage@2x.png?v=1400346739") !important;
+	 background-image: url("http://praxis.natural.moodsy.me/static/files/effectBackgroundImage@2x.png?v=1400346739") !important;
 }
 #fake-bg {
 	position: fixed;
@@ -75,7 +75,7 @@ header.navBar.withCircleBand>span {
 	left: 0;
 	z-index: 0;
 	background-color: #000000 !important; 
-	 background-image: url("http://praxis.moodsy.me/static/files/effectBackgroundImage@2x.png?v=1400346739") !important;
+	 background-image: url("http://praxis.natural.moodsy.me/static/files/effectBackgroundImage@2x.png?v=1400346739") !important;
 }
 
 #fake-bg-header {
