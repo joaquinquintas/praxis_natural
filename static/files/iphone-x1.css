@@ -151,9 +151,9 @@ header.navBar .button-add,header.navBar .button-edit,header.navBar .button-filte
 
 header.navBar .button-swipe-classic,header.navBar .button-swipe-rounded,header.navBar .button-swipe-list,header.navBar .button-swipe-list2,header.navBar .button-swipe-list3,header.navBar .button-swipe-grid
 	{
-	width: 20px;
-	height: 15px;
-	padding: 7px
+ height: 27px;
+    padding: 7px;
+    width: 35px;
 }
 
 header.navBar .with_bg.button-swipe-classic,header.navBar .with_bg.button-swipe-rounded,header.navBar .with_bg.button-swipe-list,header.navBar .with_bg.button-swipe-list2,header.navBar .with_bg.button-swipe-list3,header.navBar .with_bg.button-swipe-grid
